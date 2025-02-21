@@ -29,3 +29,4 @@ Slides for Cellen 2
 * [Mapping](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-3-mapping.html)
 * [Colour](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-4-colour.html)
 
+* [Mathlink cubes activity](https://gavinsimpson.github.io/cellen-2/02-mathcubes-slides.html)
