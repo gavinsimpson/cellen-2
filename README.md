@@ -22,11 +22,17 @@ Slides for Cellen 2
 * [Relational data](https://gavinsimpson.github.io/cellen-2/04-data-wrangling-4-relational-data.html)
 * [Joins](https://gavinsimpson.github.io/cellen-2/04-data-wrangling-5-joins.html)
 
+* [Mathlink cubes activity](https://gavinsimpson.github.io/cellen-2/02-mathcubes-slides.html)
+
 ## Data visualisation
 
 * [Introduction](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-1-introduction.html)
 * [Perception](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-2-perception.html)
 * [Mapping](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-3-mapping.html)
 * [Colour](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-4-colour.html)
+* [Groups & stats](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-5-groups-facets-stats.html)
+* [Scales & guides](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-6-scales-guides.html)
+* [Themes & facets](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-7-themes-many-plots.html)
 
-* [Mathlink cubes activity](https://gavinsimpson.github.io/cellen-2/02-mathcubes-slides.html)
+* [Live coding](https://gavinsimpson.github.io/cellen-2/05-making-a-plot-with-ggplot.html)
+* [Dog morphology](https://gavinsimpson.github.io/cellen-2/06-dog-morphology-data-viz.html)
