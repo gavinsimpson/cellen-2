@@ -37,7 +37,9 @@ Slides for Cellen 2
 * [Live coding](https://gavinsimpson.github.io/cellen-2/05-making-a-plot-with-ggplot.html)
 * [Dog morphology](https://gavinsimpson.github.io/cellen-2/06-dog-morphology-data-viz.html)
 
-## Exploratory data analysis (EDA)
+## Statistical thinking
+
+### Exploratory data analysis (EDA)
 
 * [Introduction](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-1-intro.html)
 * [Types of data](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-2-types-of-data.html)
