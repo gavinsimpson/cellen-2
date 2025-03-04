@@ -41,5 +41,5 @@ Slides for Cellen 2
 
 * [Introduction](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-1-intro.html)
 * [Types of data](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-2-types-of-data.html)
-* [Descriptive statistics](https://gavinsimpson.github.io/cellen-2/05-statistical-thinking-3-desctiptive-statistics.html)
-* [Graphical EDA](https://gavinsimpson.github.io/cellen-2/05-statistical-thinking-4-graphical-eda.html)
+* [Descriptive statistics](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-3-descriptive-statistics.html)
+* [Graphical EDA](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-4-graphical-eda.html)
