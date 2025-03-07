@@ -45,3 +45,8 @@ Slides for Cellen 2
 * [Types of data](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-2-types-of-data.html)
 * [Descriptive statistics](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-3-descriptive-statistics.html)
 * [Graphical EDA](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-4-graphical-eda.html)
+
+
+* [Sampling activity](https://gavinsimpson.github.io/cellen-2/08-sampling-activity.html)
+* [Resampling activity](https://gavinsimpson.github.io/cellen-2/09-statistical-inference.html)
+* [Fish weight activity](https://gavinsimpson.github.io/cellen-2/10-fish-weight-linear-model.html)
