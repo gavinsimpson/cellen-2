@@ -46,7 +46,16 @@ Slides for Cellen 2
 * [Descriptive statistics](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-3-descriptive-statistics.html)
 * [Graphical EDA](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-4-graphical-eda.html)
 
+### In-class activities
 
 * [Sampling activity](https://gavinsimpson.github.io/cellen-2/08-sampling-activity.html)
 * [Resampling activity](https://gavinsimpson.github.io/cellen-2/09-statistical-inference.html)
 * [Fish weight activity](https://gavinsimpson.github.io/cellen-2/10-fish-weight-linear-model.html)
+
+### Modelling
+
+* [Models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-5-models.html)
+* [Probability distributions](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-6-probability-distributions.html)
+* [Statistical inference](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-7-statistical-inference.html)
+* [Linear models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-8-linear-models.html)
+* [Categorical predictors](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-9-categorical-predictors.html)
