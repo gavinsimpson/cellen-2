@@ -59,3 +59,4 @@ Slides for Cellen 2
 * [Statistical inference](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-7-statistical-inference.html)
 * [Linear models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-8-linear-models.html)
 * [Categorical predictors](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-9-categorical-predictors.html)
+* [Generalized linear models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-10-generalized-linear-models.html)
