@@ -28,7 +28,7 @@ Slides for Cellen 2
 
 * [Introduction](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-1-introduction.html)
 * [Perception](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-2-perception.html)
-* [Mapping](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-3-mapping.html)
+* [Visual channels](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-3-visual-channels.html)
 * [Colour](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-4-colour.html)
 * [Groups & stats](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-5-groups-facets-stats.html)
 * [Scales & guides](https://gavinsimpson.github.io/cellen-2/05-data-visualisation-6-scales-guides.html)
@@ -46,12 +46,6 @@ Slides for Cellen 2
 * [Descriptive statistics](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-3-descriptive-statistics.html)
 * [Graphical EDA](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-4-graphical-eda.html)
 
-### In-class activities
-
-* [Sampling activity](https://gavinsimpson.github.io/cellen-2/08-sampling-activity.html)
-* [Resampling activity](https://gavinsimpson.github.io/cellen-2/09-statistical-inference.html)
-* [Fish weight activity](https://gavinsimpson.github.io/cellen-2/10-fish-weight-linear-model.html)
-
 ### Modelling
 
 * [Models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-5-models.html)
@@ -60,3 +54,9 @@ Slides for Cellen 2
 * [Linear models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-8-linear-models.html)
 * [Categorical predictors](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-9-categorical-predictors.html)
 * [Generalized linear models](https://gavinsimpson.github.io/cellen-2/06-statistical-thinking-10-generalized-linear-models.html)
+
+### In-class activities
+
+* [Sampling activity](https://gavinsimpson.github.io/cellen-2/08-sampling-activity.html)
+* [Resampling activity](https://gavinsimpson.github.io/cellen-2/09-statistical-inference.html)
+* [Fish weight activity](https://gavinsimpson.github.io/cellen-2/10-fish-weight-linear-model.html)
